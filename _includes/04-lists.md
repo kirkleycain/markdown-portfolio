@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+## A List of My Favorite Things
+- Salsa Dancing
+- Salsa Music
+- Fine Dining
+- Sweating
